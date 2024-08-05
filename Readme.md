@@ -34,7 +34,7 @@ Abhimanyu starts from the innermost circle with a certain amount of power and mu
 ```
 Abhimanyu Broke The Charkavyuh
 Abhimanyu Lost War at 3th circle
-
+```
 ## Solution Explanation
 
 The solution involves simulating the traversal of Abhimanyu through the circles. For each test case, we check if Abhimanyu has enough power to defeat the enemy in the current circle. If not, we either recharge his power or skip the circle if possible. If neither is possible, Abhimanyu loses at that circle.

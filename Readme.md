@@ -58,7 +58,7 @@ The solution involves simulating the traversal of Abhimanyu through the circles.
 
 ### Implementation:
 
-```cpp
+
 #include <bits/stdc++.h>
 using namespace std;
 

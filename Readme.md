@@ -97,3 +97,15 @@ int32_t main()
 
     return 0;
 }
+## Example Input and Output:
+# Input:
+2
+10 2 5 11
+1 2 5 4 8 7 4 5 6 4 3 
+10 1 3 11
+1 12 12 6 8 7 4 5 6 4 3 
+
+#Output
+Abhimanyu Broke The Charkavyuh
+Abhimanyu Lost War at 3th circle
+

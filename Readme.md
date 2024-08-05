@@ -53,11 +53,7 @@ The solution involves simulating the traversal of Abhimanyu through the circles.
 
 #### Output:
 - Print the result for each test case based on whether Abhimanyu successfully crosses all circles or loses at a specific circle.
-
-### Implementation:
-
-
-
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -129,15 +125,21 @@ int32_t main()
 
     return 0;
 }
+```
+
 ## Example Input and Output:
-# Input:
+
+### Input
+```
 2
 10 2 5 11
-1 2 5 4 8 7 4 5 6 4 3 
+1 2 5 4 8 7 4 5 6 4 3
 10 1 3 11
-1 12 12 6 8 7 4 5 6 4 3 
+1 12 12 6 8 7 4 5 6 4 3
+```
 
-#Output
+### Output
+```
 Abhimanyu Broke The Charkavyuh
-Abhimanyu Lost War at 3th circle
-
+Abhimanyu Lost War at 3rd circle
+```

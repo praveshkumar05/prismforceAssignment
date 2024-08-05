@@ -34,8 +34,6 @@ Abhimanyu starts from the innermost circle with a certain amount of power and mu
 ```
 Abhimanyu Broke The Charkavyuh
 Abhimanyu Lost War at 3th circle
-```
-```
 
 ## Solution Explanation
 
@@ -57,6 +55,7 @@ The solution involves simulating the traversal of Abhimanyu through the circles.
 - Print the result for each test case based on whether Abhimanyu successfully crosses all circles or loses at a specific circle.
 
 ### Implementation:
+
 
 
 #include <bits/stdc++.h>
